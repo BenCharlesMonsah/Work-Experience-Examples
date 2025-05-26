@@ -1,0 +1,13 @@
+astropy
+chainconsumer
+cmdstanpy
+corner
+emcee
+george
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+tqdm
